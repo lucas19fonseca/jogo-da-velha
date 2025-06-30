@@ -31,4 +31,3 @@ A IA analisa todas as jogadas possíveis, simulando o resultado de cada uma, e e
 
 ```bash
 python jogo_velha.py
-[![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-blue?style=flat-square&logo=github)](https://archiveprogram.github.com/)
